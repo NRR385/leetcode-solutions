@@ -19,13 +19,6 @@
 <strong>Explanation:</strong> The last word is &quot;moon&quot; with length 4.
 </pre>
 
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot;luffy is still joyboy&quot;
-<strong>Output:</strong> 6
-<strong>Explanation:</strong> The last word is &quot;joyboy&quot; with length 6.
-</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
