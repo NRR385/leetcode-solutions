@@ -19,14 +19,6 @@
 <strong>Explanation:</strong> &quot;raceacar&quot; is not a palindrome.
 </pre>
 
-<p><strong class="example">Example 3:</strong></p>
-
-<pre>
-<strong>Input:</strong> s = &quot; &quot;
-<strong>Output:</strong> true
-<strong>Explanation:</strong> s is an empty string &quot;&quot; after removing non-alphanumeric characters.
-Since an empty string reads the same forward and backward, it is a palindrome.
-</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
