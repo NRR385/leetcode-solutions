@@ -12,3 +12,19 @@ A curated collection of clean, optimal solutions to LeetCode algorithmic and dat
   👉 <b><a href="https://leetcode.com/u/NRR_385/">leetcode.com/u/NRR_385</a></b>
   
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/NRR385/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/NRR385/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/NRR385/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
+<!---LeetCode Topics End-->
