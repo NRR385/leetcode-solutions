@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ LeetCode Solutions
+# ⚡ LeetCode Solutions..
 
 A curated collection of clean, optimal solutions to LeetCode algorithmic and database problems.
 
