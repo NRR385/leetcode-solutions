@@ -49,6 +49,7 @@ A curated collection of clean, optimal solutions to LeetCode algorithmic and dat
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NRR385/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/NRR385/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [1051-height-checker](https://github.com/NRR385/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/NRR385/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@ A curated collection of clean, optimal solutions to LeetCode algorithmic and dat
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/NRR385/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [1051-height-checker](https://github.com/NRR385/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +94,12 @@ A curated collection of clean, optimal solutions to LeetCode algorithmic and dat
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NRR385/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/NRR385/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/NRR385/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
