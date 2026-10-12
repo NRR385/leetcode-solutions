@@ -51,6 +51,7 @@ A curated collection of clean, optimal solutions to LeetCode algorithmic and dat
 | [0169-majority-element](https://github.com/NRR385/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [1051-height-checker](https://github.com/NRR385/leetcode-solutions/tree/main/1051-height-checker/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/NRR385/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [3151-special-array-i](https://github.com/NRR385/leetcode-solutions/tree/main/3151-special-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
