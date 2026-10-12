@@ -47,6 +47,7 @@ A curated collection of clean, optimal solutions to LeetCode algorithmic and dat
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NRR385/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/NRR385/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/NRR385/leetcode-solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 ## Hash Table
@@ -87,4 +88,8 @@ A curated collection of clean, optimal solutions to LeetCode algorithmic and dat
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/NRR385/leetcode-solutions/tree/main/0844-backspace-string-compare/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NRR385/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
